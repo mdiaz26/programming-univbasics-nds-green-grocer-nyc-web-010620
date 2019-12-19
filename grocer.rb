@@ -29,8 +29,6 @@ array
 end
 
 def apply_coupons(cart, coupons)
-  pp cart 
-  pp coupons
   
   # new_cart = []
   cart_counter = 0
